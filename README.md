@@ -1,6 +1,6 @@
-# Pangolin Token Assets
+# Blackbullswap Token Assets
 
-This repository is a comprehensive collection of token assets for pooled tokens on Pangolin.
+This repository is a comprehensive collection of token assets for pooled tokens on Blackbullswap.
 
 Such a large collection can be maintained only through a community effort, so _feel free to add your token_.
 
@@ -14,6 +14,6 @@ This repo is intended to be similar to Trust Wallet's asset repository. Token lo
 5. Tokens should be [verified on an explorer like snowtrace.io](https://snowtrace.io/verifyContract).
 
 ## Disclaimer
-Pangolin team allows anyone to submit new assets to this repository. However, this does not mean that we are in direct partnership with all of the projects.
+Blackbullswap team allows anyone to submit new assets to this repository. However, this does not mean that we are in direct partnership with all of the projects.
 
-Pangolin team will reject projects that are deemed as scam or fraudulent after careful review. Pangolin team reserves the right to change the terms of asset submissions at any time due to changing market conditions, risk of fraud, or any other factors we deem relevant.
+Blackbullswap team will reject projects that are deemed as scam or fraudulent after careful review. Blackbullswap team reserves the right to change the terms of asset submissions at any time due to changing market conditions, risk of fraud, or any other factors we deem relevant.
