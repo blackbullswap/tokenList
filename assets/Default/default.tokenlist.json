@@ -1,0 +1,58 @@
+[
+    {
+        "chainId": 43114,
+        "address": "0xccae06ec0787c07d7df5a60856c73a113fc7cf9a",
+        "name": "Blackbullswap",
+        "symbol": "BBULL",
+        "decimals": 18,
+        "logoURI": "https://app.blackbullswap.finance/static/media/ida_murni_master.18c834de.png"
+    },
+    {
+        "chainId": 43144,
+        "address": "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a",
+        "name": "DAI",
+        "symbol": "DAI",
+        "decimals": 18,
+        "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=006"
+    },
+    {
+        "chainId": 43114,
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg?v=006"
+    },
+    {
+        "chainId": 43114,
+        "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.svg"
+    },
+    {
+        "chainId": 43114,
+        "address": "0xde3A24028580884448a5397872046a019649b084",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "logoURI": "https://seeklogo.com/images/T/tether-usdt-logo-FA55C7F397-seeklogo.com.png"
+    },
+    {
+        "chainId": 43114,
+        "address": "0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB",
+        "name": "WBTC",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744"
+    },
+    {
+        "name": "ChainLink",
+        "address": "0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651",
+        "symbol": "LINK",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+    }
+]
