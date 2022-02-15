@@ -5,7 +5,7 @@
         "name": "Blackbullswap",
         "symbol": "BBULL",
         "decimals": 18,
-        "logoURI": "https://app.blackbullswap.finance/static/media/ida_murni_master.18c834de.png"
+        "logoURI": "https://raw.githubusercontent.com/blackbullswap/tokenList/main/assets/0x9eF7c46dd224Fd6CDF7e33928eAF2eAf71a5eEcd/logo.png"
     },
     {
         "chainId": 43144,
